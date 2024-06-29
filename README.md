@@ -11,7 +11,7 @@ It is my first time designing a PCB as well as my first interaction with QMK!!<b
 
 KiCad PCB Design files (Schematic and PCB) as well as 3D CAD files (Shell with kickstand and keycaps) and the Vial configuration (as well as pre-compiled firmware) are all included, I ordered PCB fabrication from [JLC PCB](https://jlcpcb.com/), the 3D prints are mostly in PETG with the exception of the green shell.<br></br>
 
-When it comes to control software, I wrote my own GUI application: [MIDI Controls V2](https://youtu.be/dQw4w9WgXcQ)
+When it comes to control software, I wrote my own GUI application: [MIDI Controls V2](github repo coming soon!)
 
 ## [Images](https://imgur.com/a/dAxaj5x):
 ![MacropadV4 PCB](https://i.imgur.com/b7WZG4H.jpeg)
