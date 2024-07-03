@@ -25,7 +25,7 @@ When it comes to control software, I wrote my own GUI application: [MIDI Control
  - 40 x [Kailh Hotswap sockets](https://www.amazon.com/gp/product/B0B4W9YMGM/) 
  - 40 x [1N4148W diodes](https://www.amazon.com/gp/product/B0BY6ZL9BH/) (SOD-123 footprint)
  - 40 x [WS2812B RGB LEDs](https://www.ebay.com/itm/266150587894?var=565982726008)
- - 4 x M4 x 8.1mm x 6.3mm [threaded brass insert](https://www.amazon.com/gp/product/B0BFWC4Q9P/)
+ - 4 x M4 x 8.1mm x 6.3mm [threaded inserts](https://www.amazon.com/gp/product/B0BFWC4Q9P/)
  - 2 x M4 x 12mm hex head screws
  - 2 x M4 x 7.5mm hex head screws
 
