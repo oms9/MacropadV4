@@ -1,7 +1,7 @@
 
 # MacropadV4
 
-MacropadV4 is an ortholinear 40key (5 rows, 8 columns) Macropad with 3 EC11 encoders. It's main purpose is volume control and to provide extra keys off of my main keyboard for use as a soundboard or to map to hotkeys, similar to a compact [Novation launchpad](https://us.novationmusic.com/products/launchpad-x). <br></br>
+MacropadV4 is an ortholinear 40-key (5 rows, 8 columns) Macropad with 3 EC11 encoders. It's main purpose is volume control and to provide extra keys off of my main keyboard for use as a soundboard or to map to hotkeys, similar to a compact [Novation launchpad](https://us.novationmusic.com/products/launchpad-x). <br></br>
 
 It is based on the [Rasbperry Pi Pico/W](https://www.raspberrypi.com/products/raspberry-pi-pico/) with individual RGB backlight support. It runs on [QMK](https://qmk.fm/), mainly compiled for use with [Vial](https://get.vial.today/). <br></br>
 
