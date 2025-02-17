@@ -13,10 +13,10 @@ KiCad PCB Design files (Schematic and PCB) as well as 3D CAD files (Shell with k
 
 When it comes to control software, I wrote my own GUI application: [MIDI Controls V2](github repo coming soon!)
 
-## [Images](https://imgur.com/a/dAxaj5x):
-![MacropadV4 PCB](https://i.imgur.com/b7WZG4H.jpeg)
-![Assembled MacropadV4 PCB with blue lights on and a few test switches](https://i.imgur.com/0g74EcX.jpg)
-![Fully assembled MacropadV4, lit up in a gradient of violet and blue with a single bright yellow key](https://i.imgur.com/CvX4Zgg.jpg)
+## [Images](https://imgur.com/a/Uc7NvE1):
+![MacropadV4 PCB](https://imgur.com/uz435iN)
+![Assembled MacropadV4 PCB with blue lights on and a few test switches](https://imgur.com/6GdibCt)
+![Fully assembled MacropadV4, lit up in a gradient of violet and blue with a single bright yellow key](https://imgur.com/WcxmbI3)
 
 ---
 ## Bill of Materials:
